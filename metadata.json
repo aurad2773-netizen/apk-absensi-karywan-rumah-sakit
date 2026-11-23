@@ -1,0 +1,6 @@
+{
+  "name": "MedPresensi",
+  "description": "Aplikasi presensi karyawan rumah sakit berbasis Android dengan login Google, verifikasi lokasi GPS, jadwal shift medis, riwayat presensi, dan pengajuan izin/cuti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

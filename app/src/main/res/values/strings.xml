@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MedPresensi</string>
+    <string name="app_subtitle">Sistem Presensi Karyawan Rumah Sakit</string>
+    <string name="hospital_default_name">RSUD Medika Nusantara</string>
+
+    <!-- Auth -->
+    <string name="login_title">Masuk Karyawan</string>
+    <string name="login_subtitle">Gunakan NIP atau Email Rumah Sakit Anda untuk melakukan presensi shift</string>
+    <string name="login_identifier_label">NIP atau Email Karyawan</string>
+    <string name="login_password_label">Kata Sandi</string>
+    <string name="login_button">Masuk ke MedPresensi</string>
+    <string name="login_demo_button">Isi Akun Demo Perawat IGD</string>
+    <string name="login_register_prompt">Belum memiliki akun karyawan?</string>
+    <string name="login_register_action">Daftar Pegawai Baru</string>
+    <string name="register_title">Registrasi Karyawan RS</string>
+    <string name="register_subtitle">Lengkapi identitas kepegawaian untuk mulai mencatat presensi &amp; jadwal shift</string>
+    <string name="register_button">Buat Akun Karyawan</string>
+    <string name="local_storage_notice">Mode Penyimpanan Lokal Perangkat aktif. Data presensi, jadwal shift, dan pengajuan izin tersimpan aman di perangkat ini.</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Beranda</string>
+    <string name="nav_schedule">Jadwal</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_leave">Izin/Cuti</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Dashboard -->
+    <string name="action_check_in">Absen Masuk</string>
+    <string name="action_check_out">Absen Pulang</string>
+    <string name="action_refresh_gps">Perbarui GPS</string>
+    <string name="shift_completed_today">Presensi Shift Hari Ini Selesai</string>
+    <string name="cd_hospital_hero">Ilustrasi lobi rumah sakit modern</string>
+    <string name="cd_empty_attendance">Ilustrasi papan klip medis kosong</string>
+    <string name="cd_employee_avatar">Foto profil karyawan</string>
+    <string name="cd_toggle_password">Tampilkan atau sembunyikan kata sandi</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_logout">Keluar akun</string>
+
+    <!-- Leave & Profile -->
+    <string name="action_submit_leave">Ajukan Izin / Cuti</string>
+    <string name="action_pick_photo">Pilih Foto</string>
+    <string name="action_save_profile">Simpan Profil</string>
+    <string name="action_calibrate_gps">Gunakan Lokasi Saat Ini sebagai Titik RS</string>
+    <string name="action_logout">Keluar dari Akun</string>
+</resources>
